@@ -1,3 +1,5 @@
+// This program is for exercise 2 in programming course.
+// Dieses Programm ist für die Aufgabe 2 in Programmierungkurs.
 #include <iostream>
 #include <iomanip>
 using namespace std;

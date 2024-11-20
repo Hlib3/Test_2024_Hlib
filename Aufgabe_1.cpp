@@ -1,5 +1,8 @@
-﻿#include <iostream>
+﻿// This program is for exercise 1 in programming course.
+// Dieses Programm ist für die Aufgabe 1 in Programmierungkurs.
+#include <iostream>
 #include <iomanip>
+
 using namespace std;
 
 int main()
