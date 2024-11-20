@@ -14,4 +14,9 @@ int main()
     cout << fixed << setprecision(2) << -121.0 << endl;
     cout << showpos << 1;
     cout << 24 << noshowpos << endl;
+cout << 24 << noshowpos << endl;
+cout << 24 << noshowpos << endl;
+cout << 24 << noshowpos << endl;
+cout << 24 << noshowpos << endl;
+cout << 24 << noshowpos << endl;
 }
