@@ -20,3 +20,4 @@ cout << 24 << noshowpos << endl;
 cout << 24 << noshowpos << endl;
 cout << 24 << noshowpos << endl;
 }
+

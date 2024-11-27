@@ -12,3 +12,4 @@ int main()
     cout << '*';
     cout << "\tString\n1";
 }
+
