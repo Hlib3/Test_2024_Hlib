@@ -1,3 +1,5 @@
+// This program is for exercise 4 in programming cource.
+// Dieses Programm ist für die Aufgabe 4 in Programmierungkurs.
 #include <iostream>
 #include <iomanip>
 #include "windows.h"
