@@ -14,6 +14,6 @@ int main()
     cin >> b;
     cout << "Введіть C" << endl;
     cin >> c;
-    ((a < b && b < c) || (c < b && b < a)) ? cout << "B розташоване між A і C" : cout << "B не розташоване між A і C";
+    cout << "B розташоване між A і C ?" << boolalpha << ((a < b && b < c) ||(c < b && b < a));
 }
 
